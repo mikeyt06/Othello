@@ -1,0 +1,7 @@
+C:\Users\mikey\source\repos\Othello\OthelloLogic\bin\Debug\OthelloLogic.dll.config
+C:\Users\mikey\source\repos\Othello\OthelloLogic\bin\Debug\OthelloLogic.dll
+C:\Users\mikey\source\repos\Othello\OthelloLogic\bin\Debug\OthelloLogic.pdb
+C:\Users\mikey\source\repos\Othello\OthelloLogic\obj\Debug\OthelloLogic.csproj.AssemblyReference.cache
+C:\Users\mikey\source\repos\Othello\OthelloLogic\obj\Debug\OthelloLogic.csproj.CoreCompileInputs.cache
+C:\Users\mikey\source\repos\Othello\OthelloLogic\obj\Debug\OthelloLogic.dll
+C:\Users\mikey\source\repos\Othello\OthelloLogic\obj\Debug\OthelloLogic.pdb

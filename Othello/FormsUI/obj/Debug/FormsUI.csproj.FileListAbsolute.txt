@@ -1,0 +1,15 @@
+C:\Users\mikey\source\repos\Othello\FormsUI\bin\Debug\FormsUI.exe.config
+C:\Users\mikey\source\repos\Othello\FormsUI\bin\Debug\FormsUI.exe
+C:\Users\mikey\source\repos\Othello\FormsUI\bin\Debug\FormsUI.pdb
+C:\Users\mikey\source\repos\Othello\FormsUI\bin\Debug\OthelloLogic.dll
+C:\Users\mikey\source\repos\Othello\FormsUI\bin\Debug\OthelloLogic.pdb
+C:\Users\mikey\source\repos\Othello\FormsUI\bin\Debug\OthelloLogic.dll.config
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.csproj.AssemblyReference.cache
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.FormGame.resources
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.FormGameSettings.resources
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.Properties.Resources.resources
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.csproj.GenerateResource.cache
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.csproj.CoreCompileInputs.cache
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.csproj.CopyComplete
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.exe
+C:\Users\mikey\source\repos\Othello\FormsUI\obj\Debug\FormsUI.pdb
